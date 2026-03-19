@@ -1,0 +1,12 @@
+{
+  "name": "janseva",
+  "version": "1.0.0",
+  "description": "Your voice matters",
+  "license": "ISC",
+  "author": "Shravan Sadawarte",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}

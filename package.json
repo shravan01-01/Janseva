@@ -4,9 +4,24 @@
   "description": "Your voice matters",
   "license": "ISC",
   "author": "Shravan Sadawarte",
-  "type": "commonjs",
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
-  }
+  },
+  "dependencies": {
+    "express": "^5.2.1",
+    "figlet": "^1.11.0",
+    "random-words": "^2.0.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shravan01-01/Janseva.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/shravan01-01/Janseva/issues"
+  },
+  "homepage": "https://github.com/shravan01-01/Janseva#readme"
 }

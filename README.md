@@ -1,5 +1,5 @@
-# 🏙️ Smart Public Service CRM (PS-CRM)
-### 🚀 AI-Powered Citizen Complaint Management System  
+# 🏙️Smart Public Service CRM (PS-CRM)
+### 🚀AI-Powered Citizen Complaint Management System  
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Active-success">

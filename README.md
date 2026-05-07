@@ -1,5 +1,5 @@
-# 🏙️Smart Public Service CRM (PS-CRM)
-### 🚀AI-Powered Citizen Complaint Management System  
+# 🏙️ Smart Public Service CRM (PS-CRM)
+### 🚀 AI-Powered Citizen Complaint Management System  
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Active-success">
@@ -9,7 +9,7 @@
 
 ---
 
-## 📌Overview  
+## 📌 Overview  
 
 **Smart Public Service CRM (PS-CRM)** is a centralized digital platform designed to streamline citizen complaint management.  
 It enables citizens to report issues and allows government authorities to track, manage, and resolve complaints efficiently using AI.
@@ -189,7 +189,7 @@ Data-driven governance
 
 Smart city ready solution
 
-🤝 Contributing
+🤝Contributing
 
 Fork the repository
 
